@@ -12,5 +12,5 @@ Günümüzde birçok kişi ilaç kullanımında bir düzenlilik sağlamak zorund
 -Emrecan Korkmaz
 
 Proje raporları:
--[Fizibilete raporu (https://www.overleaf.com/project/68f8ec39ce7c0920db2b9885)]
+-[Fizibilete raporu [(https://www.overleaf.com/read/tjmrrbqnjjqy#a39976)]
 -Projemiz SWOT analizi aşamasındadır
