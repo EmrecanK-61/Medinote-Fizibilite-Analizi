@@ -6,7 +6,6 @@ Grup Adı:Ctrl+Alt+ilaç
 Günümüzde birçok kişi ilaç kullanımında bir düzenlilik sağlamak zorundadır ancak yoğun tempo, unutkanlık, yaşlılık ve dikkat dağınıklığı gibi nedenler saatinde alınmasına engel olmaktadır ve bu da ciddi sağlık sorunlarına yol açabilir. Ayrıca bünyesinde birden fazla hastalık olup karışık ilaç kullanan kişiler doz ve saat takibi yapılmazsa sağlık sorunlarını ilerletebilir. Bu yüzden bu bireylerin ilaçları zamanında ve dozunda almasını sağlayacak bir çözüme ihtiyaçları vardır.
 
 2.grup üyeleri
--Hira Mehmethanoğlu
 -Fatmanur Canpolat
 -Eylül Sakat
 -Emrecan Korkmaz
