@@ -6,14 +6,20 @@ MediNOTE - Akıllı İlaç Hatırlatıcı Sistem
 
 MediNOTE, özellikle yaşlılar, kronik hastalar ve dezavantajlı gruplar için tasarlanmış, kullanıcı dostu bir dijital sağlık asistanıdır. Proje, ilaç kullanımında düzeni sağlamayı, doz takibini kolaylaştırmayı ve aile bireyleri arasında güvenli bir izleme mekanizması kurmayı hedefler.   
 
+
+
 👥 Grup Üyeleri
 Eylül SAKAT
 Emrecan KORKMAZ
 Fatma CANPOLAT
 
+
+
 🚀 Proje Dokümantasyonu (Overleaf)
 
 SWOT Analizi: 👉 https://www.overleaf.com/read/tjmrrbqnjjqy#a39976
+
+
 
 💡 Temel Özellikler
 
@@ -36,6 +42,8 @@ Modelleme: UML Standartları (Use Case ve VAD Diyagramları)
 Veri Yönetimi: Firebase (Bulut tabanlı veri saklama ve yedekleme planı)
 
 Dokümantasyon: Overleaf 
+
+
 
 📅 Proje Takvimi
 Bu proje, 5 temel sprint aşamasında planlanmış ve her aşamada Weekly Scrum değerlendirmeleriyle ilerletilmiştir:
